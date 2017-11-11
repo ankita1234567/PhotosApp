@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "508972614035",
+    "firebase_url": "https://photosapp-184906.firebaseio.com",
+    "project_id": "photosapp-184906",
+    "storage_bucket": "photosapp-184906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508972614035:android:9486b794b104ee31",
+        "android_client_info": {
+          "package_name": "com.app.photosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508972614035-kconmvs3cnghk4vhcv2uc5kc9odae9u3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "508972614035-b123ho0i6l4v7eg63fi275mjgpclofh7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "508972614035-gcnoi9hibu4kt664pbn8nfuvugui5dls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.photosapp",
+            "certificate_hash": "881bcee88c8f3cfc1c4be5055077c9ad563af060"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBokL5Mc3c1JuYpp9Gq-oz4KkFGAP39wcw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508972614035-kconmvs3cnghk4vhcv2uc5kc9odae9u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

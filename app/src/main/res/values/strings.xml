@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhotosApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_choosepicture">Choose Image From</string>
+
+
+    <string name="text_gallary">Gallery</string>
+    <string name="text_camera">Camera</string>
+
+</resources>
