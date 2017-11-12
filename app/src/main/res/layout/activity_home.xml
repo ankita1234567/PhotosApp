@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center_vertical"
-    tools:context="com.app.photosapp.MainActivity">
+    tools:context="com.app.photosapp.UploadImage_Activity">
 
     <ImageView
         android:id="@+id/img_one"
